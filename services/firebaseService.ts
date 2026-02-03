@@ -31,14 +31,15 @@ import { calculateScore, getTotalCorrectCount, getTotalWrongCount } from './scor
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "THỰC TẾ",
-  authDomain: "THỰC TẾ",
-  projectId: "THỰC TẾ",
-  storageBucket: "THỰC TẾ",
-  messagingSenderId: "THỰC TẾ",
-  appId: "THỰC TẾ",
-  measurementId: "THỰC TẾ"
+  apiKey: "AIzaSyBDJ7almxI3dU_HiLMr3xAkGUmTm6KCaNA",
+  authDomain: "dethivatlythaythuan27012026.firebaseapp.com",
+  projectId: "dethivatlythaythuan27012026",
+  storageBucket: "dethivatlythaythuan27012026.firebasestorage.app",
+  messagingSenderId: "1070954082428",
+  appId: "1:1070954082428:web:45d1d9f495657e72b219f9",
+  measurementId: "G-7GDNBXDPH9"
 };
 
 // Initialize Firebase
